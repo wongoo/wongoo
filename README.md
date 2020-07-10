@@ -5,4 +5,4 @@ I‘m a programmer with the following experiences:
 - scrum,devops
 - open-source, dubbo-go committer
 
-I'm looking for a job, try to contact and hire [me](gelnyang@163.com).
+I'm looking for a job, try to contact and hire [me](mailto:gelnyang@163.com).
