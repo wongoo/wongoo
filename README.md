@@ -1,14 +1,4 @@
 ### Hi there 👋
-<!--
-I‘m a software engineer with the following experiences:
-- golang,java,c
-- distribution service
-- service architecture
-- scrum,devops
-- open-source, dubbo-go committer
--->
-
-I'm looking for a job, try to contact and hire [me](mailto:gelnyang@163.com).
 
 ### Statistics for the last 30 days
 | 🌏 Languages | 💻 Coding Activity |
